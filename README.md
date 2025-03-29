@@ -23,6 +23,7 @@ Implement a contract using uint, bool, string, bytes, address, mapping, and stru
 Write a contract with public, private, internal, and external functions.
 
 Implement require(), assert(), and revert() for input validation.
+
               Day 4: Events & State Changes
 
 Create a contract that logs an event when a state variable is updated.

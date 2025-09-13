@@ -2,7 +2,7 @@ Day 4: Events & State Changes
 
 Create a contract that logs an event when a state variable is updated.
 
-# -30-Day-Solidity-Mastery-Challenge
+# -30-Day-Solidity-Mastery-Challenge.
 
 Week 1: Solidity Fundamentals & Smart Contract Basics
 

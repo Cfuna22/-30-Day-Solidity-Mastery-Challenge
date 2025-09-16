@@ -26,7 +26,7 @@ Implement require(), assert(), and revert() for input validation.
 
               Day 4: Events & State Changes
 
-Create a contract that logs an event when a state variable is updated.
+Create a contract that logs an event when a state variable is updated..
 
 
 
